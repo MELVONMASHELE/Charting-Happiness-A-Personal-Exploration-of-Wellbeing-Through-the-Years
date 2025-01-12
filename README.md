@@ -89,8 +89,6 @@ Long-Term Planning: Forecasting enables proactive health management and preventi
 
 Navigating Life's Journey: A Data-Driven Dashboard Reflecting Spiritual Growth, Mental Health, and Overall Wellbeing from Toddler to Future Me.
 
-
-
 ## Recomandations
 
 ⚫Mental Health: Continue prioritizing therapy and mindfulness practices to build resilience.
