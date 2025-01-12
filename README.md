@@ -20,10 +20,10 @@ External Data: Insights from academic studies and reports about sleep, exercise,
 ➡️Visualization: Dynamic visuals in Power BI helped bring my journey to life, showcasing how different factors influenced each stage of my life.
 
 ## Results
-1. Wellbeing Across Life Stages
+#### 1. Wellbeing Across Life Stages
 Using Excel, I tracked and rated my overall wellbeing across four major life stages: Childhood, Adolescence, Early Adulthood, and Future Milestones. Power BI enabled me to visualize these trends and identify areas of growth and challenge.
 
-#### Overall Wellbeing Rating:
+Overall Wellbeing Rating:
 
 Childhood: 4.8 (A steady foundation with potential for growth)
 
@@ -37,9 +37,7 @@ Key Influencers of Wellbeing:
 
 Relationships, career, lifestyle, financial stability, and spiritual growth emerged as major contributors to my overall wellbeing.
 
-​
-
-2. Mental Health Matters: Trends and Insights
+#### 2. Mental Health Matters: Trends and Insights
 I explored mental health dynamics through data points such as stress, anxiety, therapy, and happiness.
 
 Key Observations by Life Stage:
@@ -54,9 +52,7 @@ Influencers on Mental Health:
 
 My analysis in Power BI revealed a strong correlation between dips in spiritual growth and increases in stress and anxiety. Conversely, higher levels of spiritual engagement boosted overall happiness and resilience.
 
-​
-
-3. My Money Journey: Balancing Finances and Life
+#### 3. My Money Journey: Balancing Finances and Life
 By analyzing my financial habits across life stages, I uncovered trends in savings, investment, and debt. Excel formulas and Power BI dashboards helped me track these changes and identify areas for improvement.
 
 Key Metrics Across Life Stages:
@@ -71,9 +67,7 @@ Financial Wellbeing Insights:
 
 Financial stability strongly correlated with improvements in lifestyle satisfaction. A 0.33 increase in lifestyle satisfaction consistently improved my financial outlook.
 
-​
-
-4. Tracking Life’s Key Moments and Their Impact
+#### 4. Tracking Life’s Key Moments and Their Impact
 This section reflects on significant milestones and their influence on relationships, lifestyle, and career growth.
 
 Key Observations:
@@ -84,9 +78,7 @@ Lifestyle: Grew consistently with career advancements and financial literacy.
 
 Spiritual Growth: Fluctuated during major life changes, with periods of decline coinciding with heightened stress.
 
-​
-
-Overall Wellbeing Influencers:
+#### 5.Overall Wellbeing Influencers:
 
 Lifestyle and career satisfaction emerged as key drivers of overall wellbeing, with lifestyle improvement (0.37 increase) and career satisfaction (0.52 increase) significantly boosting my happiness.
 
