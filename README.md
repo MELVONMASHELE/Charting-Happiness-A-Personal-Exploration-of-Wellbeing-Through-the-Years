@@ -1,9 +1,9 @@
 # Charting-Happiness-A-Personal-Exploration-of-Wellbeing-Through-the-Years
 
-Project Overview
+## Project Overview
 This project is a personal exploration of my own wellbeing journey, spanning different life stages and focusing on key factors such as mental health, finances, lifestyle, relationships, and spiritual growth. By leveraging Excel for data organization and analysis and Power BI for dynamic visualizations, I was able to uncover trends and insights that offer a roadmap for a more balanced and fulfilling future.
 
-Tools and Technologies
+## Tools and Data
 Excel: Data cleaning and regression analysis.
 Power BI: Dynamic dashboards for data visualization.
 Personal Wellbeing Data: Self-tracked data from apps like Fitbit and Apple Health, along with daily journal entries.
@@ -11,7 +11,7 @@ Personal Wellbeing Data: Self-tracked data from apps like Fitbit and Apple Healt
 External Data: Insights from academic studies and reports about sleep, exercise, and stress impacts on wellbeing.
 
 
-Methedology
+## Methedology
 Data Collection:
 
 I manually recorded wellbeing data across the key dimensions (mental health, finances, relationships, lifestyle, and spiritual growth) in Excel, using tables and formulas for data organization.
@@ -30,7 +30,7 @@ Visualization:
 
 Dynamic visuals in Power BI helped bring my journey to life, showcasing how different factors influenced each stage of my life.
 
-Results
+## Results
 1. Wellbeing Across Life Stages
 Using Excel, I tracked and rated my overall wellbeing across four major life stages: Childhood, Adolescence, Early Adulthood, and Future Milestones. Power BI enabled me to visualize these trends and identify areas of growth and challenge.
 
@@ -110,7 +110,7 @@ Navigating Life's Journey: A Data-Driven Dashboard Reflecting Spiritual Growth, 
 
 
 
-Recomandations
+## Recomandations
 Mental Health: Continue prioritizing therapy and mindfulness practices to build resilience.
 
 Dedicate time for spiritual growth, as it directly correlates with happiness and reduced anxiety.
@@ -125,7 +125,7 @@ Balance career ambitions with personal values to sustain long-term wellbeing.
 
 Adaptability During Transitions: Use insights from this project to navigate major life changes, ensuring that I prioritize wellbeing in all dimensions.
 
-Conclusion
+## Conclusion
 This project has been a deeply personal journey of self-reflection, data analysis, and visualization. Through the tools I used—Excel and Power BI—I gained a clearer understanding of how my wellbeing has evolved over time and what I can do to create a more balanced and fulfilling future. By identifying the key influencers of my happiness and resilience, I’ve created a roadmap that aligns with my personal goals and values. This exploration has not only provided insights into my past and present but also empowered me to approach my future with confidence and intention.
 
 Contact
